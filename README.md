@@ -1,4 +1,4 @@
-#Volební skraper
+Volební skraper
 
 O co jde v projektu?
 Tento skript umožňuje získat výsledky parlamentních voleb z roku 2017 pro konkrétní okres z této webové stránky (vyberte si okres ve sloupci Výběr obce) a uložit je do CSV souboru.
